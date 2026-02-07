@@ -1,2 +1,3 @@
 just for fun
-hi I am trying to learn git
+hi I am trying to learn git & gitHub
+now i am going to change the content for practices.
